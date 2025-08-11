@@ -1,0 +1,29 @@
+{
+  "short_name": "Marryiot Hotel",
+  "name": "Marryiot Hotel & Suites Reservation",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f3f4f6",
+  "description": "Book your stay at Marryiot Hotel & Suites. Modern rooms, easy reservations, and a quirky experience.",
+  "scope": ".",
+  "orientation": "portrait",
+  "lang": "en-US"
+}
