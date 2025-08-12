@@ -15,8 +15,6 @@ This is a modern hotel booking web application for Marryiot Hotel & Suites. It a
 - **Single Room:** $75/night
 - **Double Room:** $100/night
 - **Suite:** $150/night
-- **Weekend Surcharge:** $25/night (Friday & Saturday)
-- **Room with a View:** +$50 (special request)
 
 ## Getting Started
 
