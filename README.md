@@ -20,6 +20,17 @@ This is a modern hotel booking web application for Marryiot Hotel & Suites. It a
 
 ## Getting Started
 
+### Prerequisite: Check if npm is installed
+
+Before running any commands, make sure you have npm installed:
+
+```bash
+npm --version
+```
+
+If you see a version number, npm is installed.
+If you get an error, please install Node.js and npm from [https://nodejs.org/](https://nodejs.org/).
+
 ### Install dependencies
 
 ```bash
